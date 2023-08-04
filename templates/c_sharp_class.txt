@@ -1,0 +1,13 @@
+using System;
+
+namespace __NameSpace__;
+
+public class __ClassName__
+{
+
+    public __ClassName__()
+    {
+
+    }
+
+}
